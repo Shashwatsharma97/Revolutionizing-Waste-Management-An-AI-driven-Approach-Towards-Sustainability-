@@ -194,13 +194,25 @@ By combining Machine Learning with waste management practices, this project cont
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Co-Authors
+
+This project was developed collaboratively as a research effort by three co-authors:
+
+### Shashwat Sharma
+
+Fullstack Developer | Problem Solver | AI Enthusiast
+
+Email: shashwatsharma122004@gmail.com
 
 ### Himanshu Gupta
 
 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI & Agentic AI Learner
 
 GitHub: https://github.com/himanshugupta00235
+
+### Sankalp Bijalwan
+
+Co-Author
 
 ---
 
