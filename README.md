@@ -194,6 +194,14 @@ By combining Machine Learning with waste management practices, this project cont
 
 ---
 
+# 📖 Published As
+
+**Revolutionizing Waste Management: An AI-Driven Approach Towards Sustainability**
+
+Book Chapter — DOI: [10.1201/9781003593089-140](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003593089-140/revolutionizing-waste-management-ai-driven-approach-towards-sustainability-sankalp-bijalwan-aniket-saroj-himanshu-gupta-shashwat-sharma-saurabh-kumar-srivastava-ambrish-kumar)
+
+---
+
 # 👨‍💻 Co-Authors
 
 This project was developed collaboratively as a research effort by three co-authors:
