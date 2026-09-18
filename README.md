@@ -212,6 +212,8 @@ Fullstack Developer | Problem Solver | AI Enthusiast
 
 Email: shashwatsharma122004@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/shashwat-sharma-a25679252/
+
 ### Himanshu Gupta
 
 Aspiring AI Engineer | Machine Learning Enthusiast | Generative AI & Agentic AI Learner
